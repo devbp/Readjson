@@ -1,0 +1,4 @@
+﻿  Listview.cpp
+c:\listview\listview\listview.cpp(230): warning C4018: '<' : signed/unsigned mismatch
+c:\listview\listview\listview.cpp(288): warning C4018: '<' : signed/unsigned mismatch
+  Listview.vcxproj -> C:\Listview\Debug\Listview.exe
